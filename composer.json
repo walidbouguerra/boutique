@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Boutique\\": "src"
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "1.1.0"
+    }
+}
